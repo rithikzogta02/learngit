@@ -6,6 +6,6 @@ int main()
 {
     char x ='A';
     char y ='A';
-    cout<<x*y;
+    cout<<"lkasjdghokabdf";
     return 1;
 }
