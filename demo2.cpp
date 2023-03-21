@@ -6,5 +6,5 @@ int main()
 {
     char a ='A';
     char b ='A';
-    cout<<a-b;
+    cout<<a*b;
 }
